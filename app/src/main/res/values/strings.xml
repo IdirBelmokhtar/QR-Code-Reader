@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quick QR Barcode &amp; Scanner</string>
+    <string name="qr_scan">QR Scan</string>
+    <string-array name="country_array">
+        <item>AZTEC</item>
+        <item>CODABAR</item>
+        <item>CODE_39</item>
+        <item>CODE_93</item>
+        <item>CODE_128</item>
+        <item>DATA_MATRIX</item>
+        <item>EAN_8</item>
+        <item>EAN_13</item>
+        <item>ITF</item>
+        <item>MAXICODE</item>
+        <item>PDF_417</item>
+        <item>QR_CODE</item>
+        <item>RSS_14</item>
+        <item>RSS_EXPANDED</item>
+        <item>UPC_A</item>
+        <item>UPC_E</item>
+        <item>UPC_EAN_EXTENSION</item>
+    </string-array>
+</resources>
